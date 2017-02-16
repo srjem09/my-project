@@ -1,2 +1,22 @@
-# my-project
-my first project
+My Project
+---
+ 
+Welcome.
+ 
+ 
+ 
+Setup
+---
+ 
+```
+npm install
+```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
+```
