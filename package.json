@@ -1,10 +1,10 @@
 {
   "author": "",
   "dependencies": {
-    "babel-core": "^6.22.1",
+    "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
     "babel-preset-latest": "^6.22.0",
-    "babel-preset-react": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
     "webpack": "^2.2.1"
   },
   "description": "My Project",
